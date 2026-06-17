@@ -116,7 +116,7 @@
     "game": "Pokemon series",
     "character": "Rival characters",
     "id": 12,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -636,7 +636,7 @@
     "game": "Steins;Gate: My Darling's Embrace",
     "character": "Rintaro Okabe",
     "id": 64,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
